@@ -1,0 +1,9 @@
+{
+  "name": "qrcode",
+  "author": "Janeth Ledezma <janeth@stdlib.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "qrcode": "^1.4.4"
+  }
+}

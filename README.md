@@ -1,7 +1,5 @@
 # Build a QRCode API with Autocode
 
-If you use Airtable to keep an inventory of items in your warehouse, you can save time by scanning QR-codes with your iPhone and quickly updating your Airtable base as you restock your shelves or check items in and out.
-
 Click this deploy from Autocode button to quickly set up your project on Autocode.
 
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)

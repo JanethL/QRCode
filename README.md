@@ -71,3 +71,13 @@ Alternatively, find the manager button on the upper left and select View dev API
 Your APIs docs will open up in a different tab. You can also test your API right from the docs by passing in any URL.
 
 <img src= "./images/twelve.png" width="400">
+
+# Support
+
+Via Slack: `libdev.slack.com`
+
+You can request an invitation by clicking Community > Slack in the top bar on https://stdlib.com.
+
+Via Twitter: @StandardLibrary
+
+Via E-mail: support@stdlib.com
